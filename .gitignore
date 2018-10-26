@@ -1,0 +1,7 @@
+~/practica_dang/repos/website/.gitignore
+
+.DS_Store
+
+*~
+
+tmp/
